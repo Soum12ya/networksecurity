@@ -1,4 +1,4 @@
-### 🔐 Network Security - Phishing Data Detection (End-to-End ML Project)
+# 🔐 Network Security - Phishing Data Detection (End-to-End ML Project)
 
 ## 🚀 Overview
 This project focuses on detecting phishing websites using machine learning. It implements an end-to-end ML pipeline with AWS EC2 deployment, experiment tracking via DagsHub and MLflow, and a robust CI/CD pipeline using GitHub Actions.
